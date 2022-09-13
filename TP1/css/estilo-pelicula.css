@@ -1,0 +1,84 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+ }
+
+ body {
+    background-color: beige;
+
+ }
+
+ .jocker {
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+ }
+
+ .veng {
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+
+ }
+
+ .jonh {
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+
+ }
+
+ .pirata {
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+
+ }
+
+ .RP {
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+
+ }
+
+ h1 {
+    color: purple;
+    font-size: 80px;
+ }
+
+ p0 {
+    color: rgb(235, 13, 13);
+
+    font-family: sans-serif;
+    padding: 5px;
+
+ }
+
+ p1 {
+    color: rgb(156, 19, 19);
+
+    font-family: sans-serif;
+    padding: auto;
+    margin-bottom: 5px;
+
+ }
+
+ p2 {
+    color: rgb(146, 13, 13);
+
+    font-family: sans-serif;
+    padding: auto;
+
+
+ }
+
+ p3 {
+    color: rgb(119, 11, 11);
+
+    font-family: sans-serif;
+
+
+ }

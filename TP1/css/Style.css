@@ -1,0 +1,100 @@
+   *{
+margin: 0px;
+padding: 0px;
+
+   }
+   body{
+    background: beige;
+    
+  }
+   
+   .portada-fondo{
+   background-image: url(../image/cine.jfif);
+   background-repeat: no-repeat;
+   background-size: cover;
+ 
+   width: 791px;
+   height: 473px;
+  
+   margin-left: 250px;
+   margin-top: 20px;
+   
+
+   }
+  .imagen-cartelera{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+
+      width: 1350px;
+      height: 100px;
+  
+      margin-left: 5px;
+      margin-top: 20px;
+
+
+   }
+ h1{
+    background: none;
+    background-size: cover;
+    font-size: 70px;
+    padding: 20px;
+    color: darkslateblue;
+    
+
+    margin-left: 380px;
+    margin-right: 20px;
+    margin-top: -580px;
+    margin-bottom: 20px;
+}
+
+ .Cartelera{
+    background-color: rgba(5, 121, 121, 0.479);
+    background-size: cover;
+    font-size: 35px;
+    padding: 20px;
+    color: rgb(241, 237, 237);
+
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 370px;
+    margin-bottom: 20px;
+ }
+ .Pelicula1{
+    display: inline-flex;
+    padding: 20px;
+    width: 210px;
+    height: 300px;
+    
+ }
+ 
+ .Pelicula2{
+    display: inline-flex;
+    padding: 20px;
+    width: 210px;
+    height: 300px;
+    
+ }
+ .Pelicula3{
+    display: inline-flex;
+    padding: 20px;
+    width: 210px;
+    height: 300px;
+ 
+ 
+ }
+ .Pelicula4{
+   display: inline-flex;
+   padding: 20px;
+   width: 210px;
+   height: 300px;
+
+ }
+ .Pelicula5{
+   display: inline-flex;
+    padding: 20px;
+    width: 210px;
+    height: 300px;
+ }
+  
+  
